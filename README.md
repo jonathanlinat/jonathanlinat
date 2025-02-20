@@ -8,7 +8,7 @@ I've led the development of numerous scalable platforms supporting millions of u
 
 In addition to technical excellence, I bring strong leadership skills. I foster collaborative environments where innovation thrives through mentorship, knowledge sharing, and continuous improvement. Whether mentoring developers, coordinating cross-functional teams, or streamlining workflows, I focus on delivering impactful solutions while empowering teams to achieve their best work. By staying at the forefront of technology trends, I ensure that innovation drives projects and deliver meaningful results.
 
-Check out my **[public LinkedIn profile](https://linkedin.com/in/jonathanlinat)** & let's connect! ✨ I'm eager to collaborate on projects that inspire innovation, drive growth, and make a difference.
+✨ Check out my **[public LinkedIn profile](https://linkedin.com/in/jonathanlinat)** & let's connect! I'm eager to collaborate on projects that inspire innovation, drive growth, and make a difference.
 
 ## Core Skills & Technologies
 
