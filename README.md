@@ -10,7 +10,7 @@ In addition to technical excellence, I bring **strong leadership skills**. I fos
 
 ✨ Let's connect! I'm eager to collaborate on projects that inspire innovation, drive growth, and make a difference.
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-in/lukaszkups-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jonathanlinat)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-in/jonathanlinat-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jonathanlinat)
 
 ![](https://github-readme-stats.vercel.app/api?username=jonathanlinat&custom_title=GitHub%20Stats&include_all_commits=true&show_icons=true&title_color=ee88aa&icon_color=ffcc77&&text_color=ffffff&bg_color=222222&ring_color=ee88aa)
 
