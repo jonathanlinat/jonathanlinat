@@ -1,6 +1,6 @@
 # Allô! 👋🏻
 
-I am a 🇨🇦 **Montreal-based**, 🇫🇷 **France-born**, 🇨🇱 **LATAM-adventurer** **Lead Software Development Engineer** with almost **15 years** **of international experience** architecting and building **enterprise-grade Web applications**.
+I am a 🇨🇦 **Montreal**-based, 🇨🇱 **LATAM**-adventurer, 🇫🇷 **France**-born **Lead Software Development Engineer** with almost **15 years** **of international experience** architecting and building **enterprise-grade Web applications**.
 
 — A Human-Centered **Leader**. A Truly **Frontend Lover**. A Reliable **Backend Crafter**.
 
