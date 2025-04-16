@@ -1,8 +1,10 @@
 # Allô! 👋🏻
 
+![banner-sophie-dither-logo](https://github.com/user-attachments/assets/3d0e2c20-6004-4492-9040-d5b3b3d33bec)
+
 I am a 🇨🇦 **Montreal**-based, 🇨🇱 **LATAM**-adventurer, 🇫🇷 **France**-born **Lead Software Development Engineer** with almost **15 years** **of international experience** architecting and building **enterprise-grade Web applications**.
 
-— A Human-Centered **Leader**. A Truly **Frontend Lover**. A Reliable **Backend Crafter**.
+> — A Human-Centered **Leader**. A Truly **Frontend Lover**. A Reliable **Backend Crafter**.
 
 👉 **Get my most up-to-date resume**: https://app.enhancv.com/share/205877ed/
 
