@@ -2,7 +2,7 @@
 
 Allô! 👋🏻 I am a 🇨🇦 **Montreal**-based, 🇨🇱 **LATAM**-adventurer, 🇫🇷 **France**-born **Lead Software Development Engineer** with almost **15 years** of **international experience** architecting and building **enterprise-grade Web applications**.
 
-> 👉 **Get my most up-to-date resume**: https://app.enhancv.com/share/205877ed/
+> — A Human-Centered **Tech Leader**. A Truly **Frontend Lover**. A Reliable **Backend Crafter**.
 
 I have led the development of numerous **scalable platforms** supporting **millions of users**, with a strong focus on **accessibility**, **performance optimization**, and **user-centered design**. My expertise spans designing **maintainable architectures**, developing **robust APIs**, creating **reusable shared components**, and implementing **efficient deployment pipelines**, all while ensuring **high-quality code** through testing and performance tuning.
 
@@ -11,6 +11,9 @@ In addition to technical excellence, I bring **strong leadership skills**. I fos
 I am excited to collaborate on projects that foster **technological innovation**, promote **human growth**, and create a **positive social impact**.
 
 Check out my [LinkedIn profile](https://linkedin.com/in/jonathanlinat) & **let's connect**! ✨
+
+> [!NOTE]
+> 👉 Get my most up-to-date **resume**: https://app.enhancv.com/share/205877ed/
 
 ## GitHub Stats
 
