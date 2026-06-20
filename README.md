@@ -13,7 +13,7 @@ I am excited to collaborate on projects that foster **technological innovation**
 Check out my [LinkedIn profile](https://linkedin.com/in/jonathanlinat) & **let's connect**! ✨
 
 > [!NOTE]
-> 👉 Get my most up-to-date **resume**: https://app.enhancv.com/share/3bb5d0f6/
+> 👉 Get my most up-to-date **resume**: https://app.enhancv.com/share/b7c94524/
 
 ## GitHub Stats
 
