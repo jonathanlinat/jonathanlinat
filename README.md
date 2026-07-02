@@ -14,7 +14,3 @@ Check out my [LinkedIn profile](https://linkedin.com/in/jonathanlinat) & **let's
 
 > [!NOTE]
 > 👉 Get my most up-to-date **resume**: https://app.enhancv.com/share/b7c94524/
-
-## GitHub Stats
-
-![jonathanlinat's GitHub Stats card](https://github-readme-stats.vercel.app/api?username=jonathanlinat&include_all_commits=true&hide_title=true&show_icons=true&icon_color=ffcc33&&text_color=ffffff&bg_color=222222&ring_color=ff8877)
